@@ -1,0 +1,14 @@
+name: Bless
+main: Zqko\Zqko
+version: 1.0
+api: 3.0.0
+author: Zqko
+description: A plugin to remove all effects
+
+commands:
+  bless:
+    description: bless yourself and Players
+permissions:
+  bless:
+    default: op
+    description: Allows player to bless
